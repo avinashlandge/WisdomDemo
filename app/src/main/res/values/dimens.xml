@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="padding_5dp">5dp</dimen>
+    <dimen name="padding_7dp">5dp</dimen>
+    <dimen name="image_70dp">75dp</dimen>
+    <dimen name="image_100dp">160dp</dimen>
+    <dimen name="progressbarsize_50sp">50dp</dimen>
+</resources>

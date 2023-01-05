@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="margin_5sp">7sp</dimen>
+    <dimen name="margin_10sp">10sp</dimen>
+    <dimen name="margin_11sp">11sp</dimen>
+    <dimen name="margin_12sp">12sp</dimen>
+
+    <dimen name="margin_7sp">7sp</dimen>
+    <dimen name="dimen_size160sp">170dp</dimen>
+    <dimen name="tvsize_18sp">16sp</dimen>
+    <dimen name="margin_20sp">20sp</dimen>
+    <dimen name="tvsize_12sp">12sp</dimen>
+    <dimen name="tvsize_14sp">14sp</dimen>
+    <dimen name="btn_50dp">55dp</dimen>
+    <dimen name="padding_10dp">10dp</dimen>
+    <dimen name="tvsize_20sp">20sp</dimen>
+
+</resources>
